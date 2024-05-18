@@ -1,0 +1,11 @@
+name = "Parag Jadhav"
+license = "MIT"
+licenselink = "https://github.com/paragj30/mywebsite/blob/main/LICENSE"
+description = "A high performance and mobile first hugo template for personal portfolio and blog."
+homepage = "https://github.com/paragj30/mywebsite"
+tags = ["Responsive","Blog", "Portfolio", "Personal"]
+min_version = "0.68.0"
+
+[author]
+  name = "PARAG JADHAV"
+  homepage = "https://www.linkedin.com/in/parag-jadhav-429026146/"
