@@ -1,8 +1,8 @@
 name = "Parag Jadhav"
 license = "MIT"
-licenselink = "https://github.com/paragj30/mywebsite/blob/main/LICENSE"
+licenselink = "https://github.com/paragj30/personal-portfolio/blob/main/LICENSE"
 description = "A high performance and mobile first hugo template for personal portfolio and blog."
-homepage = "https://github.com/paragj30/mywebsite"
+homepage = "https://github.com/paragj30/personal-portfolio"
 tags = ["Responsive","Blog", "Portfolio", "Personal"]
 min_version = "0.68.0"
 
